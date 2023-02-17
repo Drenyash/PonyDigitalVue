@@ -1,0 +1,1 @@
+<template>  <footer class="footer">    <div class="container">      <p class="copy">Подвал сайта © - зарегестрированная торговая марка</p>    </div>  </footer></template><script>export default {  name: 'v-footer'}</script><style lang="scss" scoped>.footer {  padding: 30px;  background-color: #58595B;}.copy {  color: #ffffff;  text-align: center;}</style>
