@@ -1,1 +1,1 @@
-module.exports = {	publicPath: process.env.NODE_ENV === 'production'			? '/pony/'			: '/'}
+module.exports = {	publicPath: process.env.NODE_ENV === 'production'			? '/PonyDigitalVue/dist/'			: '/'}
