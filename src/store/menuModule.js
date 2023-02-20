@@ -1,0 +1,1 @@
+export const menuModule = {	state: ()=> ({		isActive: false,	}),	mutations: {		openMenu(state) {			state.isActive = !state.isActive;		}	}}

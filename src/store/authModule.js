@@ -1,0 +1,1 @@
+export const authModule = {	state: ()=> ({		isAuth: false,	}),	mutations: {		appLogin(state) {			state.isAuth = !state.isAuth;		}	}}
